@@ -24,7 +24,7 @@
   - Figma (for prototyping)
  
   
-⚠️ Known Issues:
+## ⚠️ Known Issues:
 Mobile Navbar: The navbar is not yet optimized for mobile view.
 Online Ordering: This feature is not currently available.
 
