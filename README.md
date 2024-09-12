@@ -25,11 +25,11 @@
  
   
 ## ⚠️ Known Issues:
--Mobile Navbar: The navbar is not yet optimized for mobile view.
--Online Ordering: This feature is not currently available.
+- Mobile Navbar: The navbar is not yet optimized for mobile view.
+- Online Ordering: This feature is not currently available.
 
 
 ## 🎯 Future Plans:
--Improve mobile responsiveness by adding a proper navbar.
--Add product filtering system to browse through categories.
--Add a blog section for recipes and baking tips.
+- Improve mobile responsiveness by adding a proper navbar.
+- Add product filtering system to browse through categories.
+- Add a blog section for recipes and baking tips.
