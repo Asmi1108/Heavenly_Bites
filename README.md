@@ -22,8 +22,3 @@
 - **Design Tools:**
   - Canva (for creating visuals)
   - Figma (for prototyping)
-
-
- 🚀 How to Run Locally:
-
-
