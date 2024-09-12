@@ -1,6 +1,6 @@
 # 🍰 Heavenly_Bites
 
-Heavenly_Bites is a bakery website designed to showcase a variety of baked goods.
+**Heavenly_Bites** is a bakery website designed to showcase a variety of baked goods.
 
 
 ## 🌟 Features:
