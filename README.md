@@ -5,7 +5,7 @@
 
 ## 🌟 Features:
 
-- 🍰 Product Showcase: Explore a variety imagery.
+- 🍰 Product Showcase: Explore a variety of imagery.
 - 💬 Customer Testimonials: Hear from customers!
 - 📱 Responsive Design: Optimized for desktops and tablets (pending mobile navbar).
 
